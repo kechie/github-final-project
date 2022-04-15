@@ -40,10 +40,5 @@ Quorum for TSC meetings requires at least fifty percent of all voting members of
 
 ### Current TSC members
 
-- [Andres Meira](https://github.com/andygrillo) - Grillo
-- [Diego Melgar](https://github.com/dmelgarm) - Grillo
-- [John Walicki](https://github.com/johnwalicki) - IBM
-- [Daniel Krook](https://github.com/krook) - IBM
-- [Vaclav Kuna](https://github.com/vkuna) - Seismologist
-- [Kristin Holifield](https://www.linkedin.com/in/kristinholifield) - IBM
-- [Ryan Kelley](https://github.com/rdkelley) - Software Developer
+- [Richard Alhama](https://github.com/kechie) - EihceK
+- 
